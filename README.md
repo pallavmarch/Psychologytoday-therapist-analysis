@@ -13,3 +13,4 @@ This project involves web scraping therapist data from [PsychologyToday.com](htt
 - **Python**: `requests`, `BeautifulSoup`, `pandas`, `re`, `tqdm`
 - **Power BI**: Used for visualizing therapist data
 - **Google Colab**: For running the script and handling large-scale data processing
+![[Psychologytoday-therapist-analysis_dashboard](Power_BI_dashboard.png)](https://github.com/pallavmarch/Psychologytoday-therapist-analysis/blob/main/Power_BI_dashboard.png))
